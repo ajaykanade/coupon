@@ -39,7 +39,7 @@ The pie charts below visualize the distribution of coupon types and weather cond
 
 ## Data Cleanup
 
-The raw dataset contained several data quality issues as evidenced by the above pie charts. These were addressed to enable accurate analysis as below:
+The raw dataset contained several data quality issues (some of which were evidenced by the above pie charts). These were addressed to enable accurate analysis as below:
 
 **Handling Missing Values:**
 
