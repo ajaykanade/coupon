@@ -80,22 +80,11 @@ Acceptance rate of coupon categories is:
 
 Among bar coupon recipients specifically, differences emerge based on customer behavior:
 
-**Frequency of bar visits:**
+**Frequency of bar visits:** Repeat customers are more likely to accept bar coupons
 
-- Drivers who visit bars **more than 3 times per month**: **76% acceptance**
-- Drivers who visit bars **3 times or fewer per month**: **37% acceptance**
-- **Key insight**: Repeat customers are more likely to accept bar coupons
+**Age matters:** Younger, frequent bar-goers are the highest-value target segment
 
-**Age matters:**
-
-- Drivers **under age 30** who visit bars regularly: **72% acceptance**
-- Drivers **over age 25** who visit bars regularly: **68% acceptance**
-- Younger, frequent bar-goers are the highest-value target segment
-
-**Passengers matter:**
-
-- Drivers with **adult passengers** (partner or friends): Higher acceptance rates
-- Drivers with **children** in the car: Lower acceptance rates
+**Passengers matter:** Drivers with **adult passengers** (partner or friends) are more likely to accept bar coupons
 
 ### Conclusion
 
@@ -103,8 +92,8 @@ Among bar coupon recipients specifically, differences emerge based on customer b
 
 2. **Coffee and casual dining are strong performers**: These coupon categories naturally drive higher engagement—consider investing more resources here.
 
-3. **Bar coupons need better positioning**: The low overall bar coupon acceptance suggests messaging or timing issues. Consider delivering bar coupons specifically to frequent bar-goers rather than the general population.
+3. **Bar coupons need better positioning**: Consider delivering bar coupons specifically to frequent bar-goers rather than the general population.
 
 4. **Consider passenger type and time of delivery**: Adult passengers increase acceptance, while families with children do not. Coupons delivered during times when drivers are likely traveling alone or with adults may perform better.
 
-5. **Age segmentation**: Young adults (under 30) are particularly responsive to offers for social venues like bars. This demographic should be a priority segment.
+5. **Age segmentation**: Young adults (under 30) are particularly responsive to offers for social venues like bars.
