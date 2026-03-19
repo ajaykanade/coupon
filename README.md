@@ -1,10 +1,12 @@
 # Driving Coupon Acceptance Analysis
 
+## Getting Started
+
 ## Introduction
 
 This project analyzes the factors that influence whether drivers accept digital coupons delivered to their mobile devices while driving. The goal is to use visualizations and statistical analysis to distinguish between customers who accepted driving coupons versus those who declined them.
 
-The dataset comes from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. Respondents were presented with different driving scenarios—including destination, time, weather, passenger type, and coupon details—and asked whether they would accept the coupon if they were the driver. Acceptance is coded as Y = 1 (would drive there "right away" or "later before expiration") and rejection as Y = 0 (no interest in the coupon).
+Respondents were presented with different driving scenarios—including destination, time, weather, passenger type, and coupon details—and asked whether they would accept the coupon if they were the driver.
 
 The dataset includes five coupon categories:
 
@@ -37,13 +39,13 @@ The pie charts below visualize the distribution of coupon types and weather cond
 
 ## Data Cleanup
 
-The raw dataset contained several data quality issues that were addressed to enable accurate analysis:
+The raw dataset contained several data quality issues as evidenced by the above pie charts. These were addressed to enable accurate analysis as below:
 
 **Handling Missing Values:**
 
 - Several columns contained null values including `car`, `Bar`, `CoffeeHouse`, `CarryAway`, `RestaurantLessThan20`, and `Restaurant20To50`
 - Rather than dropping rows (which would reduce our dataset significantly), missing values were replaced with sensible defaults:
-  - `car`: replaced with "do not drive"
+  - `car`: replaced nulls with "do not drive" (at first was thought of as a very important column but apparently not!)
   - Venue visit frequency columns: replaced with "never" (indicating the person doesn't visit that venue type)
 - This approach preserved data integrity while maintaining a large sample size for analysis—**almost no rows were dropped**
 
