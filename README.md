@@ -1,7 +1,5 @@
 # Driving Coupon Acceptance Analysis
 
-## Getting Started
-
 ## Introduction
 
 This project analyzes the factors that influence whether drivers accept digital coupons delivered to their mobile devices while driving. The goal is to use visualizations and statistical analysis to distinguish between customers who accepted driving coupons versus those who declined them.
